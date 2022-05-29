@@ -1,0 +1,13 @@
+body, html {
+    margin: 0px;
+}
+
+
+.footer {
+    background: #1F2937;
+    color: white;
+    font-size: smaller;
+    display: flex;
+    padding: 25px;
+    justify-content: center;
+}
