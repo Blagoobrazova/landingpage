@@ -161,21 +161,21 @@ button{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    flex-direction: column;
     flex-wrap: wrap;
 }
 
 .atext{
-    
+    text-align: left;
+    width: 70%;
 }
 
 .buttonparent{
-    height: 40px;
-    width: 150px;
+    height: 35px;
+    width: 200px;
 }
 .signup2{
     border: 2px solid #F9FAF8;
-    min-height: 100%;
+    height: 100%;
     width: 100%;
 
 }
