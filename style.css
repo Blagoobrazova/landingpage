@@ -153,11 +153,22 @@ button{
     border: 2px solid #F9FAF8;
 }
 
+.action{
+    margin: 120px 180px 120px 120px;
+    padding: 40px 60px 40px 60px;
+    height: 85px;
+    border-radius: 4px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+    font-size: 20px;
+}
+
 .footer{
     background: #1F2937;
     color: #F9FAF8;
     font-size: smaller;
     display: flex;
-    padding: 25px;
+    padding: 55px;
     justify-content: center;
 }
