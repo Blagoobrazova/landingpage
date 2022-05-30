@@ -19,7 +19,7 @@ Achieving different design decisions by using Flexbox
 ### Links
 
 - Solution URL: https://github.com/Blagoobrazova/landingpage.git
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://blagoobrazova.github.io/landingpage/)
 
 ## My process
 
