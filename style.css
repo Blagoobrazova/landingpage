@@ -3,6 +3,7 @@ body, html {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
 
 header {
@@ -59,8 +60,8 @@ main{
 .action{
     background: #3882f6;
     color:#F9FAF8;
-    
 }
+
 button{
     background: #3882f6;
     color:#F9FAF8;
@@ -73,6 +74,38 @@ button{
     font-size: 16px;
     margin: 4x 2px;
     border-radius: 4px;
+}
+
+.title{
+    margin-bottom: 32px;
+    margin-top: 32px;
+    font-weight: 800;
+    font-size: 36px;
+    align-self: center;
+}
+
+.flex-container{
+  margin: 40px auto 0 auto;
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+.img {
+  margin: 40px auto 0 auto;
+  color: white;
+  background-color:lightgray;
+  width: 150px;
+  margin: 20px;
+  text-align: center;
+  line-height: 140px;
+  font-size: 20px;
+}
+
+.info{
+  text-align:center;
+  row-gap: 20px;
 }
 
 .signup2{
