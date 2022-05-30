@@ -50,6 +50,7 @@ main{
     height: 60vh;
     background: #1F2937;
     color: #F9FAF8;
+    flex-shrink: 0;
 }
 
 .heropic{
@@ -58,7 +59,6 @@ main{
 }
 
 .content-left{
-    flex-shrink: 0;
     width: 30%;
     text-align: left;
     margin-right: 150px;
