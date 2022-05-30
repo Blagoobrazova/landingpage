@@ -1,11 +1,37 @@
 body, html {
-    margin: 0px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
+header {
+    height: 100px;
+    background: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li a{
+    padding: 5px 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: #F9FAF8
+}
+
+li a::after{
+    content: ;
+}
 
 .footer {
     background: #1F2937;
-    color: white;
+    color: #F9FAF8;
     font-size: smaller;
     display: flex;
     padding: 25px;
