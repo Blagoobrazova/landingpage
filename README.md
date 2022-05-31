@@ -1,5 +1,4 @@
 # landingpage
-# landingpa
 This is my solution to the projects «Landing page» on theodinproject.com. 
 
 ## Table of contents
